@@ -12,3 +12,5 @@ I will share it, because is useful.
 ## This is all.
 If i don't know about python programming, and i did it, you can do it.
 Have a good day.
+
+### This script is not mine.(IMPORTANT)
